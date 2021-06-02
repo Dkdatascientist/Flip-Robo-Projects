@@ -1,0 +1,1 @@
+This is a practice projects for web scrapping with selenium and beautifull soup web scraping.
