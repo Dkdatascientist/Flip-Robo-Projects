@@ -1,0 +1,3 @@
+The project is about the Ratting classification for the e-commerse website based on the Reviews that is already given by customers.
+Initally we are starting with web scrapping of the reviews and rattings from multiple ecommerse websites.
+And based on the reviews we are Creating a meachine learning model to classify rattings based on reviews using NLP  

@@ -1,0 +1,1 @@
+We have done web scraping from amazon.in and collected more than 50000 Rattings and Reviews. Using beautifullsoup and Selinium, Since the data is large we have split the data collection into 5 parts and concat it at the last as one single CSV file.
