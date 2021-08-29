@@ -1,0 +1,1 @@
+This project is about the used card price projection in the pendemic. Datas scrubed brom card 24.
